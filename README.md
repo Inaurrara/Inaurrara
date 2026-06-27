@@ -1,4 +1,4 @@
-# 👋 Oie, pode me chamar de Ina! 👩‍💻🌸
+# Oie, pode me chamar de Ina! 👩‍💻🌸
 
 ### 💻 Inaurrara Flores | Software Engineering Student at Unipampa
 **Desenvolvedora Front-end (React) & UI/UX Enthusiast**
