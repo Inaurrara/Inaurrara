@@ -33,19 +33,20 @@ Tenho forte interesse na intersecção entre código e design (UI/UX), buscando 
 <br />
 
 ### About Me
-I am a Software Engineering undergraduate student at the **Federal University of Pampa (Unipampa)**. After gaining several years of experience in the workforce, I returned to academia focused on building efficient, accessible, and user-centric digital products.
+### About Me
+I am a Software Engineering student at the Federal University of Pampa (Unipampa). After spending several years gaining valuable experience in the workforce, I returned to academia with a clear mission: to build efficient, accessible, and user-centric digital products.
 
-In addition to my university studies, I participated in the **Residência em TIC** program, where I enhanced my technical and practical skills. I am also passionate about the innovation ecosystem — I was the winner of the **Ideathon at the Alegrete Summit** for the most innovative idea!
+Alongside my university studies, I took part in the **Residência em TIC** program, where I significantly sharpened my technical and practical skills. I am also deeply passionate about the innovation ecosystem—in fact, my team and I won the **Ideathon at the Alegrete Summit** for the most innovative idea!
 
-I am ambitious, passionate about learning, and excellent at time management and scheduling, successfully balancing academic life with the routine of motherhood.
+Driven and always eager to learn, I take pride in my strong organizational and time-management skills, which allow me to masterfully balance the demands of academic life with the rewarding journey of motherhood.
 
 ### 🎨 UI/UX & Front-end Development
-I have a strong interest in the intersection of code and design (UI/UX), always striving to create functional, beautiful interfaces that improve the user journey. Currently, I am focused on the **React** ecosystem and continuously improving my skills.
+I am fascinated by the intersection of code and design (UI/UX), always striving to build functional, clean, and beautiful interfaces that elevate the user journey. Right now, I am diving deep into the **React** ecosystem and continuously expanding my developer toolkit.
 
 ### 🎯 Current Goals & Languages
-- 🇬🇧 Improving my **Technical English** focused on the development market.
-- 🇰🇷 Studying **Korean** as a hobby and cultural enrichment.
-- 🚀 Building a solid technical and professional foundation to reach global opportunities in the future.
+- 🇬🇧 Leveling up my **Technical English** to match the global tech market standards.
+- 🇰🇷 Learning **Korean** as a hobby and for cultural enrichment.
+- 🚀 Building a bulletproof technical and professional foundation to unlock global opportunities in the near future.
 
 </details>
 
